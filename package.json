@@ -1,0 +1,11 @@
+{
+  "name": "neural-networks",
+  "version": "1.0.0",
+  "description": "Train model depending upon data in javascript",
+  "main": "models/model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milap Shah <onlymilaps@gmail.com>",
+  "license": "ISC"
+}
